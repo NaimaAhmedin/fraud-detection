@@ -1,6 +1,6 @@
 # Fraud Detection Project
 
-## Interim-2 Summary
+## Interim Summary
 
 - **EDA & Feature Engineering:** Completed for e-commerce dataset (Fraud_Data.csv)
 - **Models Built:**
